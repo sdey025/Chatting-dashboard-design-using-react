@@ -1,0 +1,17 @@
+.img3{
+    width:10%;
+    border-radius: 50%;
+}
+.mydiv{
+    margin-left: 40px;
+}
+.text{
+    width:80%;
+}
+.button2{
+    height: 30px;
+    margin-left: 15px;
+    margin-top: 30px;
+    background-color: violet;
+    border: none;
+}
